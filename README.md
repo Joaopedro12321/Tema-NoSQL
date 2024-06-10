@@ -7,6 +7,7 @@
   "showFavorites": true,
   "zoom": 100
 }
+
 ////exercicio 2**
 {
 "funcionarios": [
